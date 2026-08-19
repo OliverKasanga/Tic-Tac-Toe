@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 root = tk.Tk()
 root.title("TIC-TAC-TOE")
-root.geometry("300x200")
+root.geometry("300x400")
 
 digits = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
